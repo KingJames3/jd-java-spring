@@ -5,6 +5,7 @@
 #   git config --global core.excludesfile ~/.gitignore_global
 
 # Ignore project compile info
+
 /.project
 /.classpath
-/.setting
+/.settings
